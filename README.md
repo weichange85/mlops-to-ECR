@@ -1,2 +1,7 @@
-# mlops-to-ECR
-A simple ML container that is deployed to Amazon ECR as a microservice.
+# Iris Classifier API
+
+A simple ML model trained on the Iris dataset, served via FastAPI.
+
+## 🚀 Usage
+
+1. Train the model:
